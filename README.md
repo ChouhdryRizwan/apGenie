@@ -1,3 +1,3 @@
 #Geo-Speak Translate
 
-[Live Link](https://chouhdryrizwan.pythonanywhere.com/)
+[Live Link](https://apgenie.streamlit.app/)
